@@ -1,0 +1,16 @@
+AnonID,Early Closure #1 (ES),Early Closure #2 (ES),Early Closure #3 (ES),Early Closure #4 (ES),Early Closure #5 (ES),Early Closure #1 (ING),Early Closure #2 (ING),Early Closure #3 (ING),Early Closure #4 (ING),Early Closure #5 (ING),Early Closure (ES),Early Closure (ING),Age,Sex,Current place of residence: City/State,Current place of residence: Country,Highest level of formal education,II. History (weight= .454),Unnamed: 7,III. Use (weight=1.09),Unnamed: 9,IV. Proficiency (weight=2.27),Unnamed: 11,V. Attitudes (weight= 2.27),Unnamed: 13,English,Spanish,Dominance
+(1),0,0,0,0,0,0,1,0,0,1,0.0,0.4,20,F,"Austin, TX",United States,Some college,29.056,39.498,28.34,22.89,49.94,47.67,54.48,47.67,161.816,157.728,4.088
+(2),1,1,1,1,0,0,1,1,0,1,0.8,0.6,21,M,Fort Worth,United States,Some college,37.682,28.602,40.33,14.17,54.48,47.67,36.32,54.48,168.812,144.922,23.89
+(3),0,1,0,0,1,0,1,0,0,1,0.4,0.4,21,F,Austin,United States,High school,44.946,27.24,51.23,3.27,54.48,45.4,54.48,54.48,205.136,130.39,74.746
+(4),0,0,0,0,0,1,1,1,0,1,0.0,0.8,23,F,Torrelavega/Cantabria,Spain,Some graduate school,21.338,47.216,5.45,47.96,52.21,54.48,29.51,54.48,108.508,204.136,-95.628
+(5),0,0,0,0,0,0,1,0,0,1,0.0,0.4,20,F,Austin,USA,Some college,40.406,28.148,45.78,9.81,54.48,38.59,54.48,47.67,195.146,124.218,70.928
+(6),1,0,1,1,1,0,0,1,1,1,0.8,0.6,21,M,"Austin, TX",United States,Some college,40.86,28.148,54.5,13.08,54.48,47.67,54.48,54.48,204.32,143.378,60.942
+(7),1,0,1,1,1,0,1,1,0,1,0.8,0.6,21,M,"Austin, TX",United States,Some college,44.038,29.056,47.96,6.54,54.48,47.67,54.48,47.67,200.958,130.936,70.022
+(8),1,1,0,1,1,0,0,1,0,1,0.8,0.4,21,F,"Fort Worth, TX",United States,Some college,15.89,36.774,33.79,20.71,45.4,52.21,45.4,52.21,140.48,161.904,-21.424
+(9),0,1,0,0,0,0,1,1,0,1,0.2,0.6,20,M,"Austin, Tx",United States,"College (B.A, B.S.)",24.516,30.418,41.42,13.08,52.21,36.32,29.51,49.94,147.656,129.758,17.898
+(10),0,0,0,0,0,0,1,0,0,1,0.0,0.4,20,F,Austin/texas,United states,Some college,29.964,29.964,39.24,15.26,52.21,40.86,49.94,54.48,171.354,140.564,30.79
+(11),0,1,1,1,0,0,1,1,0,1,0.6,0.6,21,F,"Austin, Texas",United States,Some college,25.424,39.498,40.33,14.17,49.94,49.94,45.4,52.21,161.094,155.818,5.276
+(12),0,0,0,1,1,0,0,0,0,1,0.4,0.2,22,M,"Fort Worth, TX",United States,Some college,46.762,32.688,43.6,10.9,54.48,47.67,34.05,47.67,178.892,138.928,39.964
+(13),1,0,0,0,0,1,0,0,0,0,0.2,0.2,19,F,"Austin, TX",United States,Some college,39.498,31.78,44.69,9.81,49.94,24.97,49.94,49.94,184.068,116.5,67.568
+(14),1,0,0,0,0,0,0,0,0,0,0.2,0.0,19,F,"Austin, Texas ",United States,Some college,24.97,36.774,38.15,16.35,47.67,45.4,29.51,54.48,140.3,153.004,-12.704
+(15),0,0,0,0,0,0,0,0,0,0,0.0,0.0,18,F,"Austin, Texas ",United States,Some college,32.234,37.228,18.53,35.97,54.48,52.21,40.86,54.48,146.104,179.888,-33.784
